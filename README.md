@@ -1,5 +1,5 @@
 ### oi
-Atualmente estudando Python e desenvolvimento de jogos em Unity
+
 ##
  <a href="https://github.com/yukioktk">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yukioktk&count_private=true&show_icons=true&theme=midnight-purple" />
